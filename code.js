@@ -1,1 +1,1 @@
-document.write("TEST PAGE")
+document.write("TEST")
